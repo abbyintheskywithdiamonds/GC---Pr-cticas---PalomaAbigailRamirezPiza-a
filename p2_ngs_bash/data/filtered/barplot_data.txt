@@ -1,0 +1,14 @@
+CDS 8355
+mat_peptide 485
+tmRNA 1
+gene 8568
+exon 8569
+pseudogene 410
+misc_feature 13
+rep_origin 1
+misc_RNA 58
+tRNA 133
+mRNA 8402
+repeat_region 400
+rRNA 22
+chromosome 1
